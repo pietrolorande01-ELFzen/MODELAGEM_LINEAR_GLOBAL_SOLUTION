@@ -19,7 +19,6 @@
 GS_MOD_LIN/
 ├── global_solution_space_missions.py   # Código principal (todos os exercícios)
 ├── space_missions.csv                  # Base de dados
-├── relatorio_global_solution.pdf       # Relatório estatístico completo
 └── README.md                           # Este arquivo
 ```
 
